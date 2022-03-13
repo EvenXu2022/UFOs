@@ -3,7 +3,7 @@
 this analysis is to use JavaScript, and HTML to search UFO sightings based on the criteria that users enter. UFO sightings data is provided by the model.
 
 ## HTML Page and Results
-Results include dates, places, and UFO details. Users can filter the sightings by inputting the followings:
+UFO sighting searching results include dates, places, and UFO details. Users can filter the sightings by inputting the followings:
 -- Date: follow the date format provided in the input box
 -- City: type a full city name
 -- State: input two digits state code
