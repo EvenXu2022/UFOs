@@ -10,7 +10,7 @@ Results include dates, places, and UFO details. Users can filter the sightings b
 -- Country: input two digits country code
 -- UFO Shape: input the shape name
 
-<Image src:"static/images/UFO_html.PNG">
+<img src="static/images/UFO_html.PNG">
 
 ## Summary
 ### Drawback
